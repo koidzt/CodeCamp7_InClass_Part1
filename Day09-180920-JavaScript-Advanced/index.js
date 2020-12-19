@@ -110,9 +110,9 @@ console.log(obj); */
 // นี้มี properties ไหม ถ้ามีให้คืนค่า true ถ้าไม่มีให้คืนค่า false
 //  function isEmpty(obj){
 //     for (let key in obj) {
-//         return (false);
+//         return (true);
 //     }
-//     return (true);
+//     return (false);
 // }
 // console.log( isEmpty({}) );
 
